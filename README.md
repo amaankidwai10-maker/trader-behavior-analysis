@@ -38,7 +38,7 @@ The resulting insights challenge common assumptions about retail trading behavio
 *   `sentiment_summary.csv` - The exported aggregate metrics table.
 *   `Amaan_Kidwai_Trader_Behavior_Analysis.pdf` - The final business intelligence report summarizing the methodology and insights.
 
-## 🚀 How to Run the Code
+## How to Run the Code
 1. Clone this repository to your local machine.
 2. Ensure you have the required libraries installed:
 ```bash
